@@ -1,0 +1,3 @@
+#Image Correct Result
+0
+All image correction was successful.

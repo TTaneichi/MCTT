@@ -1,0 +1,9 @@
+#aaaa
+1
+1
+1
+1
+Img/takeCBCT/Calib
+Img/takeCBCT/cable/Img_R001.tma
+Img/takeCBCT/cable/Img_L001.tma
+Img/takeCBCT/combi.tma

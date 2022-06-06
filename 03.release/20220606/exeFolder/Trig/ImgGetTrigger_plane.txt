@@ -1,0 +1,18 @@
+# Image Get Trigger
+# ---------------------------------
+# Image Type 0:Offset/1:Exposure
+# Image Save Folder Name
+# Image Save File Name
+# Number of Images
+# Using rotate Stage 0:NotUse/1:Use
+# Rotate Type
+# RasBox Use 0:NotUse/1:Use
+# ---------------------------------
+1
+Img/01/Plane
+Img
+2
+0
+0
+0
+

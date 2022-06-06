@@ -1,0 +1,18 @@
+# Image Get Trigger
+# ---------------------------------
+# Image Type 0:Offset/1:Exposure/2:Both
+# Image Get Folder
+# Image Get FileName
+# image Num
+# Using rotate Stage 0:NotUse/1:Use
+# Rotate Type
+# raspberry Pi Use 0:NotUse/1:Use
+# ---------------------------------
+2
+Img/01
+Exp_Img
+10
+1
+12
+1
+

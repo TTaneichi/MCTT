@@ -1,0 +1,1 @@
+copy ImgGetTrigger_planeLow.txt ImgGetTrigger.txt

@@ -1,0 +1,1 @@
+copy ..\workspace\ImageProcFL\Debug\ImageProcFL.exe ImageProcFL.exe

@@ -1,0 +1,1 @@
+copy ImgGetTrigger_org.txt ImgGetTrigger.txt

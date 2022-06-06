@@ -1,0 +1,1 @@
+copy ..\workspace\MCTT\Debug\MCTT.exe MCTT.exe

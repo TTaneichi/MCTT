@@ -1,0 +1,3 @@
+#Image Acquisition Result
+0
+Images are acquired normally.

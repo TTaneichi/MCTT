@@ -1,0 +1,1 @@
+copy LogGetTrigger_Rot.txt LogGetTrigger.txt

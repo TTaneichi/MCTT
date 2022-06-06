@@ -1,0 +1,1 @@
+copy ImgGetTrigger_expHDD.txt ImgGetTrigger.txt

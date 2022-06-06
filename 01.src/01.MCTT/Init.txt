@@ -1,0 +1,17 @@
+#Init.txt
+
+#IP Address setting
+IPADDR_SE1=192.168.0.110
+IPADDR_SE2=192.168.0.111
+PORT_NUM1=65000
+PORT_NUM2=2333
+
+#STAGE USE 0:Not Use/1:Use
+STAGE=0
+
+#RASBOX USE 0:Not Use/1:Use
+RASBOX=0
+
+#RotateStage Serial FileName
+ROT_SERI=COM3
+

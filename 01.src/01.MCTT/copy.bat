@@ -1,0 +1,1 @@
+copy Debug\MCTT.exe MCTT.exe
